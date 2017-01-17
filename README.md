@@ -2,7 +2,8 @@
 
 
 
-Simple REST API developed with Java and Spark Framework.<br />
+Simple REST API developed with Java , Maven and Spark Framework.<br />
+
 Methods:<br />
 GET users<br />
 GET user by ID<br />
